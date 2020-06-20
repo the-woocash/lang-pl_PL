@@ -1,5 +1,5 @@
 ; Translation Credit.  Will appear in CA's credits
-translationCredit=<Author> (<Language>)
+translationCredit=Łukasz Szyper (Polski)
 Cancel=Anuluj
 
 ; My PSAs / banners
@@ -90,33 +90,33 @@ This plugin has a duplicated name from another plugin %s This will impact your a
 
 ; CA Sections Keep the length reasonable
 MENU=
-Installed Apps=
-Previous Apps=
-Pinned Apps=
-CATEGORIES=
-New Apps=
-Updated Apps=
-Random Apps=
-Top New Installs=
-Trending Apps=
-All Apps=
-OTHER=
-Statistics=
-Credits=
-Support=
-VERSION=
-Change Log=
+Installed Apps=Zainstalowane Aplikacje
+Previous Apps=Poprzednie Aplikacje
+Pinned Apps=Przypięte Aplikacje
+CATEGORIES=KATEGORIE
+New Apps=Nowe
+Updated Apps=Zaktualizowane
+Random Apps=Losowe
+Top New Installs=Najwięcej instalacji
+Trending Apps=Trendy
+All Apps=Wszystkie
+OTHER=INNE
+Statistics=Statystyki
+Credits=W uznaniu zasług
+Support=Wsparcie
+VERSION=WERSJA
+Change Log=Lista zmian
 
 ; Credits
-Development=
-Additional Contributions=
-GUI Layout Design=
-Application Feed=
-Additional Testing=
-Moderation=
-Additional Libraries=
-Copyright=
-Translation=
+Development=Autor
+Additional Contributions=Wsparcie
+GUI Layout Design=Projekt interfejsu
+Application Feed=Feed aplikacji
+Additional Testing=Dodatkowe testy
+Moderation=Moderacja
+Additional Libraries=Dodatkowe biblioteki
+Copyright=Wszystkie prawa zastrzeżone
+Translation=Tłumaczenie
 
 ; Statistics page
 Deprecated Applications are able to still be installed if you have previously had them installed New installations of these applications are blocked unless you enable Display Deprecated Applications within CAs General Settings=

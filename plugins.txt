@@ -24,6 +24,6 @@ Stable=Stabilna
 STALE=PRZESTARZAŁA
 Support Thread=Wątek wsparcia
 Uninstall=Odinstaluj
-Update All Plugins=Odśwież wszystkie wtyczki
+Update All Plugins=Aktualizuj wszystkie wtyczki
 Upgrade=Aktualizuj
 View Release Notes=Zobacz informacje o wydaniu
