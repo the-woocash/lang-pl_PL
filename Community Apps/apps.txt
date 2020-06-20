@@ -89,10 +89,10 @@ Something really wrong happened Reloading the Apps tab will probably fix the pro
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=
 
 ; CA Sections Keep the length reasonable
-MENU=
-Installed Apps=Zainstalowane Aplikacje
-Previous Apps=Poprzednie Aplikacje
-Pinned Apps=Przypięte Aplikacje
+MENU=APLIKACJE
+Installed Apps=Zainstalowane
+Previous Apps=Poprzednie
+Pinned Apps=Przypięte
 CATEGORIES=KATEGORIE
 New Apps=Nowe
 Updated Apps=Zaktualizowane
